@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThatPriestKartik
+- 👋 Hi, I’m Kartik Pujari.
 - 👀 I’m interested in learning advance web development.
 - 🌱 I’m currently pursuing b.tech in computer science and engineering.
 - 📫 instagram: @thatpriestkatik
